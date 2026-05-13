@@ -83,20 +83,7 @@ https://www.pfsense.org/
 
 ---
 
-# Структура проекта
 
-```text
-project/
-│
-├── README.md
-├── presentation/
-│   └── Поднятие PfSensa для локальной сети.pptx
-├── screenshots/
-├── configs/
-└── docs/
-```
-
----
 
 # Подготовка среды
 
